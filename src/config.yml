@@ -1,0 +1,5 @@
+commandPrefix: "cookie"
+dataLocation: "./plugins/cookieclicker/"
+dbName: "playersandcookies.db"
+internalLeaderboard: false
+upgradesJSON: "upgrades.json"

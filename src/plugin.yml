@@ -1,0 +1,10 @@
+name: Cookie Clicker
+description: who cares
+author: yeet
+main: me.cookieclicker.Main
+version: 0.6.9
+
+commands:
+  cookie:
+    usage: /<command> [click|shop|add]
+    description: Opens cookie menu of choice
